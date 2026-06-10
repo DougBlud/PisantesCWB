@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect x="0" y="0" width="512" height="512" rx="104" fill="#141417"/>
+  <g transform="translate(256 248) scale(1.15) translate(-256 -256)">
+    <g fill="#FFFFFF" stroke="none">
+      <path d="M 100 296
+               C 84 294, 80 308, 92 318
+               C 96 330, 120 332, 158 332
+               L 360 332
+               C 402 332, 424 330, 430 318
+               C 440 310, 434 298, 418 298
+               C 360 294, 158 294, 100 296 Z"/>
+      <path d="M 124 298
+               C 112 270, 120 248, 144 240
+               C 172 230, 200 224, 228 218
+               C 252 213, 276 211, 300 214
+               C 326 217, 350 220, 372 225
+               C 390 229, 402 244, 403 262
+               C 404 280, 402 293, 399 300
+               L 124 298 Z"/>
+    </g>
+    <g fill="none" stroke="#141417" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 118 297 C 200 295, 320 295, 396 298"/>
+      <path d="M 150 244 C 150 262, 150 282, 152 296" stroke-width="7"/>
+      <path d="M 198 222 C 200 234, 201 244, 203 252" stroke-width="7"/>
+      <path d="M 135 330 L 135 318"/>
+      <path d="M 180 331 L 180 319"/>
+      <path d="M 225 331 L 225 319"/>
+      <path d="M 270 331 L 270 319"/>
+      <path d="M 315 331 L 315 319"/>
+      <path d="M 360 330 L 360 318"/>
+      <path d="M 210 234 L 232 224"/>
+      <path d="M 226 246 L 250 236"/>
+      <path d="M 244 256 L 266 247"/>
+    </g>
+  </g>
+</svg>
